@@ -59,6 +59,7 @@ Examples using raylib core platform functionality like window creation, inputs, 
 | 33 | [core_basic_window_web](core/core_basic_window_web.c) | <img src="core/core_basic_window_web.png" alt="core_basic_window_web" width="80"> | ⭐️☆☆☆ | 1.3 | 1.3 | [Ray](https://github.com/raysan5) |
 | 34 | [core_input_gestures_web](core/core_input_gestures_web.c) | <img src="core/core_input_gestures_web.png" alt="core_input_gestures_web" width="80"> | ⭐️⭐️☆☆ | 4.6-dev | 4.6-dev | [ubkp](https://github.com/ubkp) |
 | 35 | [core_automation_events](core/core_automation_events.c) | <img src="core/core_automation_events.png" alt="core_automation_events" width="80"> | ⭐️⭐️⭐️☆ | 5.0 | 5.0 | [Ray](https://github.com/raysan5) |
+| 36 | [core_high_dpi](core/core_high_dpi.c) | <img src="core/core_high_dpi.png" alt="core_high_dpi" width="80"> | ⭐️☆☆☆ | 5.0 | 5.0 | [Jonathan Marler](https://github.com/marler8997) |
 
 ### category: shapes
 
@@ -200,6 +201,7 @@ Examples using raylib shaders functionality, including shaders loading, paramete
 | 139 | [shaders_basic_pbr](shaders/shaders_basic_pbr.c) | <img src="shaders/shaders_basic_pbr.png" alt="shaders_basic_pbr" width="80"> | ⭐️⭐️⭐️⭐️ | 5.0 | 5.1-dev | [Afan OLOVCIC](https://github.com/_DevDad) |
 | 140 | [shaders_lightmap](shaders/shaders_lightmap.c) | <img src="shaders/shaders_lightmap.png" alt="shaders_lightmap" width="80"> | ⭐️⭐️⭐️☆ | 4.5 | 4.5 | [Jussi Viitala](https://github.com/nullstare) |
 | 141 | [shaders_rounded_rectangle](shaders/shaders_rounded_rectangle.c) | <img src="shaders/shaders_rounded_rectangle.png" alt="shaders_rounded_rectangle" width=80> | ⭐️⭐️⭐️☆ | 5.5 | 5.5 | [Anstro Pleuton](https://github.com/anstropleuton) |
+| 142 | [shaders_view_depth](shaders/shaders_view_depth.c) | <img src="shaders/shaders_view_depth.png" alt="shaders_view_depth" width="80"> | ⭐️⭐️⭐️☆ | 5.6-dev | 5.6-dev | [Luís Almeida](https://github.com/luis605) |
 
 ### category: audio
 
@@ -229,4 +231,3 @@ Examples showing raylib misc functionality that does not fit in other categories
 | 154 | [raymath_vector_angle](others/raymath_vector_angle.c) | <img src="others/raymath_vector_angle.png" alt="raymath_vector_angle" width="80"> | ⭐️⭐️☆☆ | 1.0 | 4.6 | [Ray](https://github.com/raysan5) |
 
 As always contributions are welcome, feel free to send new examples! Here is an [examples template](examples_template.c) to start with!
-
